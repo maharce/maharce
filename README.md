@@ -1,5 +1,7 @@
 ## Hi there 👋
 <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/ed31e754-57ca-4c68-9605-591ef033d4c5" />
+<img width="296" height="200" alt="image" src="https://github.com/user-attachments/assets/a86242f7-183f-4d1a-bbba-53d68b1cd50c" />
+
 
 <!--
 **maharce/maharce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
