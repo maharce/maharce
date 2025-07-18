@@ -13,6 +13,10 @@
 
 ![022106-tofushop](https://github.com/user-attachments/assets/06540db5-7e50-4dd2-8413-bb1bdce57374)
 
+<br/>
+<img width="500" height="366" alt="image" src="https://github.com/user-attachments/assets/495b341a-0f6f-4f35-94f1-2be5281200ae" />
+
+
 
 <!--
 **maharce/maharce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
